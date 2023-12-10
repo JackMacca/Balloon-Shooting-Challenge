@@ -1,0 +1,7 @@
+{
+    "php.validate.executablePath": "",
+    "python.linting.pylintArgs":[
+        "--extension-pkg-whitelist=pygame",
+        "--erros-only"
+  ]
+}
